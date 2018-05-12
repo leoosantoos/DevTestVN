@@ -1,0 +1,11 @@
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\bin\Debug\netcoreapp2.0\ViajaNetClient.deps.json
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\bin\Debug\netcoreapp2.0\ViajaNetClient.runtimeconfig.json
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\bin\Debug\netcoreapp2.0\ViajaNetClient.runtimeconfig.dev.json
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\bin\Debug\netcoreapp2.0\ViajaNetClient.dll
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\bin\Debug\netcoreapp2.0\ViajaNetClient.pdb
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\obj\Debug\netcoreapp2.0\ViajaNetClient.csprojResolveAssemblyReference.cache
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\obj\Debug\netcoreapp2.0\ViajaNetClient.csproj.CoreCompileInputs.cache
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\obj\Debug\netcoreapp2.0\ViajaNetClient.AssemblyInfoInputs.cache
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\obj\Debug\netcoreapp2.0\ViajaNetClient.AssemblyInfo.cs
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\obj\Debug\netcoreapp2.0\ViajaNetClient.dll
+C:\Users\DrAGoN\source\repos\ViajaNet\ViajaNet\obj\Debug\netcoreapp2.0\ViajaNetClient.pdb
