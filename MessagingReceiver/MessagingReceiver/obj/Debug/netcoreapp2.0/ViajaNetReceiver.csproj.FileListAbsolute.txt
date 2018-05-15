@@ -1,0 +1,11 @@
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\bin\Debug\netcoreapp2.0\ViajaNetReceiver.deps.json
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\bin\Debug\netcoreapp2.0\ViajaNetReceiver.runtimeconfig.json
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\bin\Debug\netcoreapp2.0\ViajaNetReceiver.runtimeconfig.dev.json
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\bin\Debug\netcoreapp2.0\ViajaNetReceiver.dll
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\obj\Debug\netcoreapp2.0\ViajaNetReceiver.csprojResolveAssemblyReference.cache
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\obj\Debug\netcoreapp2.0\ViajaNetReceiver.csproj.CoreCompileInputs.cache
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\obj\Debug\netcoreapp2.0\ViajaNetReceiver.AssemblyInfoInputs.cache
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\obj\Debug\netcoreapp2.0\ViajaNetReceiver.AssemblyInfo.cs
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\bin\Debug\netcoreapp2.0\ViajaNetReceiver.pdb
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\obj\Debug\netcoreapp2.0\ViajaNetReceiver.dll
+C:\Users\DrAGoN\source\repos\ViajaNetReceiver\ViajaNetReceiver\obj\Debug\netcoreapp2.0\ViajaNetReceiver.pdb
