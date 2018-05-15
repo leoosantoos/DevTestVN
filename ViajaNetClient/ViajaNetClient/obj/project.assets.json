@@ -4234,9 +4234,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Developing\\Git\\DevTestVN\\ViajaNetClient\\ViajaNetClient\\ViajaNetClient.csproj",
-      "projectName": "ViajaNetClient",
-      "projectPath": "D:\\Developing\\Git\\DevTestVN\\ViajaNetClient\\ViajaNetClient\\ViajaNetClient.csproj",
+      "projectUniqueName": "D:\\Developing\\Git\\DevTestVN\\ViajaNetClient\\ViajaNetClient\\MessagingClient.csproj",
+      "projectName": "MessagingClient",
+      "projectPath": "D:\\Developing\\Git\\DevTestVN\\ViajaNetClient\\ViajaNetClient\\MessagingClient.csproj",
       "packagesPath": "C:\\Users\\DrAGoN\\.nuget\\packages\\",
       "outputPath": "D:\\Developing\\Git\\DevTestVN\\ViajaNetClient\\ViajaNetClient\\obj\\",
       "projectStyle": "PackageReference",

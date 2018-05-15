@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
 
-namespace ViajaNetClient
+namespace MessagingClient
 {
     public class Data
     {
         public string ip { get; set; }
         public string log { get; set; }
         public string browser { get; set; }
-        public string data { get; set; }
-        
+        public string date { get; set; }
+        public int timeSpent { get; set; }
+
         private List<string> logList { get; set; }
         private List<string> browserList { get; set; }
 

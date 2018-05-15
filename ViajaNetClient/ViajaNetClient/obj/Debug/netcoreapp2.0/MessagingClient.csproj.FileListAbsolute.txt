@@ -1,0 +1,11 @@
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\obj\Debug\netcoreapp2.0\MessagingClient.csprojResolveAssemblyReference.cache
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\obj\Debug\netcoreapp2.0\MessagingClient.csproj.CoreCompileInputs.cache
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\obj\Debug\netcoreapp2.0\MessagingClient.AssemblyInfoInputs.cache
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\obj\Debug\netcoreapp2.0\MessagingClient.AssemblyInfo.cs
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\bin\Debug\netcoreapp2.0\MessagingClient.deps.json
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\bin\Debug\netcoreapp2.0\MessagingClient.runtimeconfig.json
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\bin\Debug\netcoreapp2.0\MessagingClient.runtimeconfig.dev.json
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\bin\Debug\netcoreapp2.0\MessagingClient.dll
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\bin\Debug\netcoreapp2.0\MessagingClient.pdb
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\obj\Debug\netcoreapp2.0\MessagingClient.dll
+D:\Developing\Git\DevTestVN\ViajaNetClient\ViajaNetClient\obj\Debug\netcoreapp2.0\MessagingClient.pdb

@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "ViajaNetClient/1.0.0": {
+      "MessagingClient/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
           "RabbitMQ.Client": "5.0.1"
         },
         "runtime": {
-          "ViajaNetClient.dll": {}
+          "MessagingClient.dll": {}
         }
       },
       "Microsoft.NETCore.Targets/1.1.0": {},
@@ -695,7 +695,7 @@
     }
   },
   "libraries": {
-    "ViajaNetClient/1.0.0": {
+    "MessagingClient/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

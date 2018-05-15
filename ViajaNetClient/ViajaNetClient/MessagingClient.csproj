@@ -3,8 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <AssemblyName>ViajaNetClient</AssemblyName>
-    <RootNamespace>ViajaNetClient</RootNamespace>
+    <AssemblyName>MessagingClient</AssemblyName>
+    <RootNamespace>MessagingClient</RootNamespace>
     <ApplicationIcon />
     <StartupObject />
   </PropertyGroup>

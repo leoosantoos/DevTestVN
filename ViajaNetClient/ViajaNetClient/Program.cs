@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ViajaNetClient
+namespace MessagingClient
 {
     class Program
     {

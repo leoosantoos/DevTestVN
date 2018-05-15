@@ -5,7 +5,7 @@ using System.Text;
 using Newtonsoft.Json;
 using RabbitMQ.Client;
 
-namespace ViajaNetClient
+namespace MessagingClient
 {
     class Client
     {
@@ -15,7 +15,7 @@ namespace ViajaNetClient
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
-                channel.QueueDeclare(queue: "viajanet_queue",
+                channel.QueueDeclare(queue: "messaging_queue",
                                      durable: true,
                                      exclusive: false,
                                      autoDelete: false,
@@ -33,7 +33,7 @@ namespace ViajaNetClient
                         properties.Persistent = true;
 
                         channel.BasicPublish(exchange: "",
-                                             routingKey: "viajanet_queue",
+                                             routingKey: "messaging_queue",
                                              basicProperties: properties,
                                              body: body);
 
@@ -49,11 +49,13 @@ namespace ViajaNetClient
 
         internal string GetLog()
         {
+            Random rand = new Random();
             var logger = new Data();
 
             logger.log = logger.GetLog();
             logger.browser = logger.GetBrowser();
-            logger.data = DateTime.Now.ToString("ddMMyyyy HH:mm:ss");
+            logger.timeSpent = rand.Next(60);
+            logger.date = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
 
             return JsonConvert.SerializeObject(logger);
         }
