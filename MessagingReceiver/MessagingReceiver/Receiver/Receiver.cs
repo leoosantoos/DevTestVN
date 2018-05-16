@@ -18,6 +18,10 @@ namespace MessagingReceiver
 
         public void Receive()
         {
+            while (Console.ReadKey(true).Key != ConsoleKey.Enter && Console.ReadKey(true).Key != ConsoleKey.Escape)
+            {
+            }
+
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
@@ -78,7 +82,7 @@ namespace MessagingReceiver
                 var viewResult = bucket.Query<dynamic>(query);
 
                 Console.Clear();
-                Console.WriteLine("WebSite\tTotal Time(s)");
+                Console.WriteLine("WebSite\tTempo Total(s)");
 
                 foreach (var line in viewResult.Rows)
                 {
@@ -108,7 +112,7 @@ namespace MessagingReceiver
 
                 viewResult = bucket.Query<dynamic>(query);
 
-                Console.WriteLine("\n\nWebSite\tTotal Acesses");
+                Console.WriteLine("\n\nWebSite\tTotal de acessos");
                 foreach (var line in viewResult.Rows)
                 {
                     if (ua.MostAcessed.Equals(string.Empty) && ua.LeastAcessed.Equals(string.Empty))

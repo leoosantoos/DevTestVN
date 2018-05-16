@@ -11,6 +11,10 @@ namespace MessagingClient
     {
         public void Send ()
         {
+            while (Console.ReadKey(true).Key != ConsoleKey.Enter && Console.ReadKey(true).Key != ConsoleKey.Escape)
+            {
+            }
+
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
