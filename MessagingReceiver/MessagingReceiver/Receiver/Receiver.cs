@@ -127,7 +127,7 @@ namespace MessagingReceiver
                         ua.TopAcess = Convert.ToInt32(line.Value);
                         ua.MostAcessed = line.Key;
                     }
-                    else if (ua.LeastTime > Convert.ToInt32(line.Value))
+                    else if (ua.BottomAcess > Convert.ToInt32(line.Value))
                     {
                         ua.BottomAcess = Convert.ToInt32(line.Value);
                         ua.LeastAcessed = line.Key;
