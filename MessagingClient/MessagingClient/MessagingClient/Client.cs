@@ -39,7 +39,7 @@ namespace MessagingClient
 
                         Console.WriteLine(" Mensagem enviada: {0}", message);
 
-                        System.Threading.Thread.Sleep(2000);
+                        System.Threading.Thread.Sleep(500);
 
                         message = GetLog();
                     }

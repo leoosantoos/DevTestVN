@@ -20,3 +20,14 @@ C:\Users\DrAGoN\source\repos\MessagingReceiver\MessagingReceiver\obj\Debug\netco
 C:\Users\DrAGoN\source\repos\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.AssemblyInfo.cs
 C:\Users\DrAGoN\source\repos\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.dll
 C:\Users\DrAGoN\source\repos\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.pdb
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\bin\Debug\netcoreapp2.0\MessagingReceiver.deps.json
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\bin\Debug\netcoreapp2.0\MessagingReceiver.runtimeconfig.json
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\bin\Debug\netcoreapp2.0\MessagingReceiver.runtimeconfig.dev.json
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\bin\Debug\netcoreapp2.0\MessagingReceiver.dll
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\bin\Debug\netcoreapp2.0\MessagingReceiver.pdb
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.csprojResolveAssemblyReference.cache
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.csproj.CoreCompileInputs.cache
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.AssemblyInfoInputs.cache
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.AssemblyInfo.cs
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.dll
+D:\Developing\Git\DevTestVN\MessagingReceiver\MessagingReceiver\obj\Debug\netcoreapp2.0\MessagingReceiver.pdb
